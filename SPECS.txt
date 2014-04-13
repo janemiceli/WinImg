@@ -1,0 +1,3 @@
+To add: a compression scheme of some sort compress the image and descompress 
+when the image is dumped back to the a blank hard drive partition. 
+Possibily zlib if it is completely free in terms to licensing to use.
